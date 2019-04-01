@@ -1,1 +1,8 @@
 include bin/coals
+include CHANGELOG
+include CLA.md
+include CONTRIBUTING.md
+include PRIVACY.md
+include README
+include SEMVER.md
+include COPYING
